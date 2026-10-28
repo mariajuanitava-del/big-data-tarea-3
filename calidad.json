@@ -1,0 +1,12 @@
+{
+  "registros_originales": 8351,
+  "nulos_o_vacios_por_columna": {
+    "VALOR": 0,
+    "UNIDAD": 0,
+    "VIGENCIADESDE": 0,
+    "VIGENCIAHASTA": 0
+  },
+  "registros_invalidos": 0,
+  "duplicados_validos_eliminados": 0,
+  "registros_limpios": 8351
+}

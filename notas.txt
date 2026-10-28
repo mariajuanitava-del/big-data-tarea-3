@@ -1,0 +1,6 @@
+Fuente: CSV historico TRM, Datos Abiertos Colombia, mcec-87by.
+Analisis descriptivo; no predice tasas futuras ni explica causas economicas.
+Cada registro puede abarcar varios dias. Los promedios no se ponderan por dias.
+Se eliminan duplicados exactos y registros invalidos; no se imputan valores.
+Los valores altos validos se conservan. Los anos extremos son parciales.
+El CSV pequeno permite demostrar Spark, pero no medir escalabilidad industrial.
